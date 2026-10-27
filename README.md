@@ -18,7 +18,8 @@ Description:<br>
 •	PC0 and PC1 are connected to Switch0.<br>
 •	Switch0 is connected to Router0 on FastEthernet0/0.<br>
 •	The router acts as a DHCP server for the connected LAN.<br>
-<img width="1917" height="1078" alt="Screenshot 2026-10-27 180648" src="https://github.com/user-attachments/assets/507f3141-a465-4383-b4f3-101c61a70c4d" />
+<img width="1912" height="1193" alt="image" src="https://github.com/user-attachments/assets/ac649aed-034e-4c7c-b827-3690710f5b38" />
+
 
 ________________________________________
 # IP Addressing Table
